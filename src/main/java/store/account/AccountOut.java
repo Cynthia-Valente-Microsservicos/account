@@ -1,4 +1,4 @@
-package tore.account;
+package store.account;
 
 import lombok.Builder;
 
