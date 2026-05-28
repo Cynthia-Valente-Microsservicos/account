@@ -6,7 +6,8 @@ import lombok.Builder;
 public record AccountIn(
     String name,
     String email,
-    String password
+    String password,
+    Role role
 ){
     
 }

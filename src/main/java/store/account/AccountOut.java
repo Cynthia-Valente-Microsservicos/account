@@ -6,7 +6,8 @@ import lombok.Builder;
 public record AccountOut(
     String id,
     String name,
-    String email
+    String email,
+    Role role
 ){
     
 }
